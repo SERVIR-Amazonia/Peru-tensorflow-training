@@ -1,14 +1,14 @@
 ---
 layout: page
-title: "Introduction to ML, Deep Learning and Google Colab"
-permalink: /intro-ml-dl-colab
+title: "Semantic Segmentation models, evaluation and advanced techniques"
+permalink: /semantic-segmentation
 has_children: true
 nav_order: 1
 ---
 
 
 
-# Introduction to ML, Deep Learning and Google Colab
+# Semantic Segmentation models, evaluation and advanced techniques
 Navigate through the different lesson sections by using the menu on the lefthand side or the table of contents below. 
 
 ## Session Agenda
