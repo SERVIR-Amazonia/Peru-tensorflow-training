@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Introduction to Google Colab, TensorFlow and Keras
+title: Advanced Techniques for Deep Learning
 parent: Semantic Segmentation models, evaluation and advanced techniques
 nav_order: 2
 ---

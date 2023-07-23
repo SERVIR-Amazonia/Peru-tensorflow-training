@@ -84,7 +84,7 @@ Navigate through the different lesson sections by using the menu on the lefthand
       <td>15:00 - 15:30</td>
       <td>
         <ul>
-          <li>TensorFlow advanced applications with deep learning</li>
+          <li>TensorFlow advanced applications with Deep Learning</li>
           <li>Object detection</li>
           <li>Regression</li>
           <li>Time Series Analysis</li>

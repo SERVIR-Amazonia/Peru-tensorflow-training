@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Introduction to ML, DL and AI
+title: Building, compiling, and training a deep learning segmentation model to process datasets
 parent: Semantic Segmentation models, evaluation and advanced techniques
 nav_order: 1
 ---

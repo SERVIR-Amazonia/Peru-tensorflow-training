@@ -1,6 +1,6 @@
 ---
 layout: page
-title: TensorFlow Basics
+title: Testing difference architecture and transfer learning with Convolutional Neural Networks
 parent: Semantic Segmentation models, evaluation and advanced techniques
 nav_order: 3
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Integrating TensorFlow with Google Earth Engine
+title: TensorFlow advanced applications with Deep Learning
 parent: Semantic Segmentation models, evaluation and advanced techniques
 nav_order: 4
 ---
