@@ -42,7 +42,7 @@ Navigate through the different lesson sections by using the menu on the lefthand
             <li><em>Requirement: Co-develop, meaning ACCA develops interactive material, Development Seeds advices</em></li>
         </ul>
       </td>
-      <td><strong>Presenter</strong>ACCA + Development Seed</td>
+      <td><strong>Presenter</strong>: ACCA + Development Seed</td>
     </tr>
     <tr>
       <td>10:30 - 11:00</td>
@@ -85,7 +85,7 @@ Navigate through the different lesson sections by using the menu on the lefthand
            <li><em>Requirement: Co-develop, meaning ACCA develops interactive material, Development Seeds advices</em></li>
         </ul>
       </td>
-      <td><strong>Presenter</strong>ACCA + Development Seed</td>
+      <td><strong>Presenter</strong>: ACCA + Development Seed</td>
     </tr>
     <tr>
       <td>15:00 - 15:30</td>
