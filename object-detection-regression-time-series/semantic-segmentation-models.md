@@ -1,18 +1,18 @@
 ---
 layout: page
-title: "Semantic Segmentation models, evaluation and advanced techniques"
-permalink: /semantic-segmentation
+title: "Object Detection, Regression, Time Series Analysis"
+permalink: /object-detection-regression-time-series
 has_children: true
 nav_order: 1
 ---
 
 
 
-# Semantic Segmentation models, evaluation and advanced techniques
+# Object Detection, Regression, Time Series Analysis
 Navigate through the different lesson sections by using the menu on the lefthand side or the table of contents below. 
 
 ## Session Agenda
-**Date**: 09/08/2023  
+**Date**: 10/08/2023  
 **Instructor(s):** Lilly Thomas & Ryan Avery
 
 <table>
@@ -35,11 +35,14 @@ Navigate through the different lesson sections by using the menu on the lefthand
       <td>09:00 - 10:30</td>
       <td>
         <ul>
-            <li>Building, compiling, and training a deep learning segmentation model to process datasets</li>
-            <li><em>Format: Lecture and Interactive</em></li>
+            <li>Build-a-thon</li>
+            <li>TensorFlow Advanced Applications with Deep Learning</li>
+            <li>Object Detection</li>
+            <li>Regression</li>
+            <li><em>Requirement: Co-develop, meaning ACCA develops interactive material, Development Seeds advices</em></li>
         </ul>
       </td>
-      <td><strong>Presenter</strong>Lilly Thomas and Ryan Avery</td>
+      <td><strong>Presenter</strong>ACCA + Development Seed</td>
     </tr>
     <tr>
       <td>10:30 - 11:00</td>
@@ -54,11 +57,12 @@ Navigate through the different lesson sections by using the menu on the lefthand
       <td>11:00 - 12:15</td>
       <td>
         <ul>
-          <li>Advanced Techniques for Deep Learning, metrics evaluation, data augmentation, etc</li>
-          <li><em>Format: Lecture and Interactive</em></li>
+          <li>Build-a-thon</li>
+          <li>Vision Transformers</li>
+          <li><em>Requirement: Co-develop, meaning ACCA develops interactive material, Development Seeds advices</em></li>
         </ul>
       </td>
-      <td><strong>Presenter</strong>: Lilly Thomas and Ryan Avery</td>
+      <td><strong>Moderator</strong>: Development Seed</td>
     </tr>
     <tr>
       <td>12:15 - 13:30</td>
@@ -74,11 +78,14 @@ Navigate through the different lesson sections by using the menu on the lefthand
       <td>13:30 - 15:00</td>
       <td>
         <ul>
-          <li>Testing difference architecture and transfer learning with Convolutional Neural Networks</li>
-          <li><em>Format: Lecture</em></li>
+           <li>Build-a-thon</li>
+           <li>TensorFlow Advanced Applications with Deep Learning</li>
+           <li>Time Series Analysis</li>
+           <li>Hypertuning</li>
+           <li><em>Requirement: Co-develop, meaning ACCA develops interactive material, Development Seeds advices</em></li>
         </ul>
       </td>
-      <td><strong>Presenter</strong>: Lilly Thomas and Ryan Avery</td>
+      <td><strong>Presenter</strong>ACCA + Development Seed</td>
     </tr>
     <tr>
       <td>15:00 - 15:30</td>
@@ -93,21 +100,16 @@ Navigate through the different lesson sections by using the menu on the lefthand
       <td>15:30 - 16:30</td>
       <td>
         <ul>
-          <li>TensorFlow advanced applications with Deep Learning</li>
-          <li>Object detection</li>
-          <li>Regression</li>
-          <li>Time Series Analysis</li>
-          <li>Hyper-parameter tuning</li>
-          <li><em>Format: Lecture</em></li>
+          <li>Build-a-thon</li>
         </ul>
       </td>
-      <td><strong>Moderator</strong>: Lilly Thomas and Ryan Avery</td>
+      <td><strong>Moderator</strong>: Tim Mayers (SCO)</td>
     </tr>
     <tr>
       <td>16:30 - 17:00</td>
       <td>
         <ul>
-            <li>Finalize the session</li>
+            <li>Final session</li>
          </ul>
       </td>
       <td><strong>Moderator</strong>: Vanesa Martin (SCO)</td>
