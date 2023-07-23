@@ -3,7 +3,7 @@ layout: page
 title: "Object Detection, Regression, Time Series Analysis"
 permalink: /object-detection-regression-time-series
 has_children: true
-nav_order: 1
+nav_order: 3
 ---
 
 

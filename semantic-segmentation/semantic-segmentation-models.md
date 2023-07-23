@@ -3,7 +3,7 @@ layout: page
 title: "Semantic Segmentation models, evaluation and advanced techniques"
 permalink: /semantic-segmentation
 has_children: true
-nav_order: 1
+nav_order: 2
 ---
 
 
