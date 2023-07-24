@@ -21,12 +21,12 @@ If you have any questions about the material, please submit a question below! We
 ## Agenda
 This table is just an example. Actual 12-day overview will differ based on the country.
 
-| Instruction Day | Theme                                                                        | Timing         | Format    |
-|:----------------|:-----------------------------------------------------------------------------|:---------------|:----------|
-| 1               | Introduction to Machine Learning, Deep Learning and Artificial Intelligence  | August 2023    | In-person |
-| 2               | Semantic Segmentation models, evaluation and advanced techniques             | August 2023    | In-person |
-| 3               | Object Detection, Regression, Time Series Analysis                           | August 2023    | In-person |
-| 4               | ACCA's study cases                                                           | August 2023    | In-person |
+| Instruction Day | Theme                                                                        | Timing              | Format    |
+|:----------------|:-----------------------------------------------------------------------------|:--------------------|:----------|
+| 1               | Introduction to Machine Learning, Deep Learning and Artificial Intelligence  | August 8th 2023     | In-person |
+| 2               | Semantic Segmentation models, evaluation and advanced techniques             | August 9th 2023     | In-person |
+| 3               | Object Detection, Regression, Time Series Analysis                           | August 10th 2023    | In-person |
+| 4               | ACCA's study cases                                                           | August 11th 2023    | In-person |
 
 ## Feedback
 If you have any feedback from any of the workshops, please fill out the form below. It helps us improve future workshops!
