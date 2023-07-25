@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Introduction to ML, Deep Learning and Google Colab"
+title: "Day 1: Introduction to ML, Deep Learning and Google Colab"
 permalink: /intro-ml-dl-colab
 has_children: true
-nav_order: 1
+nav_order: 3
 ---
 
 

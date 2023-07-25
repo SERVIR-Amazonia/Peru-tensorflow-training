@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resources
-nav_order: 6
+nav_order: 8
 ---
 
 # Resources

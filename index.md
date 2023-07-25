@@ -12,12 +12,6 @@ This training will bring technicians and geospatial specialists leaders from the
 
 The lesson content for each workshop can be found in the tabs on the lefthand side panel. Additionally, you can find information about all the workshop partners under the **Partners** tab, supplementary learning material under the **Resources** tab, and photos from the workshops (and a place to upload your own photos) under the **Photos** tab. 
 
-
-## Questions
-If you have any questions about the material, please submit a question below! We are here to help.  
-
-[Ask a Question](https://forms.gle/a7MW4PtgtmPiPoZJ9){: .btn .btn-purple }
-
 ## Agenda
 This table is just an example. Actual 12-day overview will differ based on the country.
 
@@ -29,9 +23,9 @@ This table is just an example. Actual 12-day overview will differ based on the c
 | 4               | ACCA's study cases                                                           | August 11th 2023    | In-person |
 
 ## Feedback
-If you have any feedback from any of the workshops, please fill out the form below. It helps us improve future workshops!
+If you have any feedback from the workshop, please fill out the form below. It helps us improve future workshops!
 
-[Give Feedback](https://forms.gle/8Jdm1aybL9sqzNEw6){: .btn .btn-purple }
+[Give Feedback](https://forms.gle/Nd2EtDBKRaR5pY2V6){: .btn .btn-purple }
 
 ## Workshop Recordings
 The recordings for each workshop session can be access by clicking the button below. Please do not remove any files from the folder.

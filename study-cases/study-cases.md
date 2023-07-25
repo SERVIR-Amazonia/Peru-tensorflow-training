@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "ACCA's Case of Study"
+title: "Day 4: ACCA's Case of Study"
 permalink: /study-cases
 has_children: true
-nav_order: 4
+nav_order: 6
 ---
 
 
