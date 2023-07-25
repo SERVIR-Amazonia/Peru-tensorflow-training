@@ -1,5 +1,5 @@
 title: Peru SERVIR TensorFlow Training Earth Science Applications in Amazonia
-description: A website template for the SIG Caribbean trainings
+description: TensorFlow Earth Science Applications in Amazonia, held in Peru by ACCA, SERVIR Amazonia and Development Seed
 baseurl: "/Peru-tensorflow-training" # the subpath of your site, e.g. /blog
 url: "https://hayleypippin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/images/transparent-logos.png"
