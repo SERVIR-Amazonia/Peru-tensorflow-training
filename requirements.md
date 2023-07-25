@@ -24,10 +24,10 @@ The course contains the following:
 3. [Basics of Neural Networks](https://mltraining.readthedocs.io/en/latest/#);
 4. [Google Cloud Platform and Workflow](https://medium.com/google-earth/down-to-earth-with-ai-platform-7bc363abf4fa);
 5. Intro TensorFlow Colabs;
-    5.1. [Basic Classification: Classify images of clothing](https://www.tensorflow.org/tutorials/keras/classification);
-    5.2. [Multi-class prediction with a DNN-Pixel based](https://colab.research.google.com/github/google/earthengine-api/blob/master/python/examples/ipynb/TF_demo1_keras.ipynb);
-    5.3. [Regression with an FCNN-Unet](https://colab.research.google.com/github/google/earthengine-api/blob/master/python/examples/ipynb/UNET_regression_demo.ipynb);
-    5.4. [Deploying to AI Platform](https://colab.research.google.com/github/google/earthengine-api/blob/master/python/examples/ipynb/AI_platform_demo.ipynb);
+    1. [Basic Classification: Classify images of clothing](https://www.tensorflow.org/tutorials/keras/classification);
+    2. [Multi-class prediction with a DNN-Pixel based](https://colab.research.google.com/github/google/earthengine-api/blob/master/python/examples/ipynb/TF_demo1_keras.ipynb);
+    3. [Regression with an FCNN-Unet](https://colab.research.google.com/github/google/earthengine-api/blob/master/python/examples/ipynb/UNET_regression_demo.ipynb);
+    4. [Deploying to AI Platform](https://colab.research.google.com/github/google/earthengine-api/blob/master/python/examples/ipynb/AI_platform_demo.ipynb);
 
 # Preliminary Survey
 It's also mandatory to complete the following form below.
