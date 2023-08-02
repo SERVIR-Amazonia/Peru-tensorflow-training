@@ -9,7 +9,7 @@ remote_theme: just-the-docs/just-the-docs
 # Aux links for the upper right navigation
 aux_links:
   "Conservación Amazónica - ACCA":
-    - "//https://www.acca.org.pe/"
+    - "//www.acca.org.pe/"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
