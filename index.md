@@ -12,6 +12,8 @@ This training will bring technicians and geospatial specialists leaders from the
 
 The lesson content for each workshop can be found in the tabs on the lefthand side panel. Additionally, you can find information about all the workshop partners under the **Partners** tab, supplementary learning material under the **Resources** tab, and photos from the workshops (and a place to upload your own photos) under the **Photos** tab. 
 
+<img align="center" src="./images/banner.png" hspace="15" vspace="10" width="500">
+
 ## Agenda
 This table is just an example. Actual 12-day overview will differ based on the country.
 
