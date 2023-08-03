@@ -23,7 +23,7 @@ We want to thank the following organizations that made this workshop possible!
 <img align="center" src="https://servir.alliancebioversityciat.org/wp-content/uploads/2019/03/logoserviramazonia.png" hspace="15" vspace="10" width="250">
 
 ## SERVIR Global
-<img align="center" src="./images/servir-global-logo.png" hspace="15" vspace="10" height="250">
+<img align="center" src="./images/servir-global-logo.png" hspace="15" vspace="10" width="250">
 
 ## USAID
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/USAID-Identity.svg/512px-USAID-Identity.svg.png" hspace="15" vspace="10" width="250">
