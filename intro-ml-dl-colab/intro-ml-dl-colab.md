@@ -194,5 +194,3 @@ Navigate through the different lesson sections by using the menu on the lefthand
     </tr>
   </tbody>
 </table>
-
-
