@@ -22,26 +22,62 @@ Navigate through the different lesson sections by using the menu on the lefthand
       <th align="center">Topics</th>
       <th align="center">Presenter</th>
     </tr>
+     <tr>
+      <td>07:30 - 08:00</td>
+      <td>
+        <ul>
+            <li>Checklist of trainees</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li><strong>Moderator</strong>: Marvin Quispe (ACCA)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>08:00 - 08:30</td>
+      <td>
+        <ul>
+            <li>Opening remarks</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li><strong>Moderator</strong>: Milagros Becerra (ACCA)</li>
+            <li><strong>Speaker</strong>: Vanesa Martin (NASA)</li>
+            <li><strong>Speaker</strong>: Carlos Gasco (CIAT/SAMZ)</li>
+            <li><strong>Speaker</strong>: Sidney Novoa (ACCA)</li>
+            <li><strong>Speaker</strong>: Patrick Venail (UTEC)</li>
+        </ul>
+      </td>
+    </tr>
     <tr>
       <td>08:30 - 09:00</td>
       <td>
         <ul>
-            <li>Opening remarks</li>
+            <li>Opening photo</li>
          </ul>
       </td>
-      <td>Carlos Gasco (CIAT/SAMZ)</td>
+      <td>
+        <ul>
+            <li><strong>Moderator</strong>: Claudia Hurtado (ACCA)</li>
+        </ul>
     </tr>
     <tr>
       <td>09:00 - 09:30</td>
       <td>
         <ul>
-            <li>Training Kickoff (Sidney Novoa, Vanesa Martin, Tim Mayer)</li>
-            <li>Opening photo</li>
-            <li>Overview of the training</li>
-            <li>Goals: Capacity Building, Prototypes, G4G 2023 Session</li>
+            <li>Overview of the TF Training</li>
+            <li>Goals: Capacity Building</li>
         </ul>
       </td>
-      <td><strong>Moderator</strong>: Sidney Novoa (ACCA)</td>
+      <td>
+        <ul>
+          <li><strong>Moderator</strong>: Vanesa Martin (NASA)</li>
+          <li><strong>Moderator</strong>: Milagros Becerra (ACCA)</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>09:30 - 10:30</td>
@@ -51,13 +87,20 @@ Navigate through the different lesson sections by using the menu on the lefthand
           <li>Hub presentations SERVIR Amazonia services and ML</li>
         </ul>
       </td>
-      <td><strong>Moderator</strong>: Sidney Novoa (ACCA) / Milagros Becerra (ACCA)</td>
+      <td>
+        <ul>
+            <li><strong>Lead</strong>: Milagros Becerra (ACCA)</li>
+            <li><strong>Moderator</strong>: Vanesa Martin (NASA)</li>
+            <li><strong>Moderator</strong>: Marvin Quispe (ACCA)</li>
+            <li><strong>Moderator</strong>: Osmar Yupanqui (ACCA)</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>10:30 - 11:00</td>
       <td>
         <ul>
-            <li><em>Break</em></li>
+            <li><em>Coffee Break</em></li>
         </ul>
       </td>
       <td>-</td>
@@ -67,10 +110,14 @@ Navigate through the different lesson sections by using the menu on the lefthand
       <td>
         <ul>
           <li>Introduction to Machine Learning, Deep Learning and Artificial Intelligence</li>
-          <li>Neural Networks Basics, Perceptron, Multi-layer perceptron, Activation function, Gradient Descent (GD), Optimizers, Loss function, Epoch, Regularization</li>
         </ul>
       </td>
-      <td><strong>Presenter</strong>: Development Seed</td>
+      <td>
+        <ul>
+            <li><strong>Moderator</strong>: Osmar Yupanqui (ACCA)</li>
+            <li><strong>Presenter</strong>: Lilly Thomas and Ryan Avery (Development Seed)</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>12:00 - 13:00</td>
@@ -79,10 +126,15 @@ Navigate through the different lesson sections by using the menu on the lefthand
             <li>Introduction to Google Colab, Tensorflow 2.0 and Keras Library</li>
           </ul>
       </td>
-      <td><strong>Presenter</strong>: Development Seed</td>
+      <td>
+        <ul>
+            <li><strong>Moderator</strong>: Osmar Yupanqui (ACCA)</li>
+            <li><strong>Presenter</strong>: Lilly Thomas (Development Seed)</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>13:00 - 14:30</td>
+      <td>13:00 - 14:15</td>
       <td>
         <ul>
             <li><em>Lunch</em></li>
@@ -91,36 +143,54 @@ Navigate through the different lesson sections by using the menu on the lefthand
       <td>-</td>
     </tr>
     <tr>
-      <td>14:30 - 15:40</td>
+      <td>14:15 - 15:00</td>
       <td>
         <ul>
-          <li>Overview about the building blocks of TensorFlow (Tensors)</li>
-          <li>Transforming traditional data, to TensorFlow Datasets (TFRecords)</li>
-          <li>TensorFlow IO (Parsing, Encoding and Decoding)</li>
-          <li>Main TensorFlow methods and functions</li>
+            <li>Overview of the building blocks (tensors) of TensorFlow (Tensors), main methods, functions and datasets</li>
         </ul>
       </td>
-      <td><strong>Presenter</strong>: Development Seed</td>
-    </tr>
-    <tr>
-      <td>15:40 - 16:30</td>
       <td>
         <ul>
-          <li>Integrating TensorFlow with Google Earth Engine</li>
-          <li>Exporting data to the Google Cloud Platform/Google Drive</li>
-          <li>Transforming a TensorFlow Model to a Google Earth Engine Model</li>
+            <li><strong>Moderator</strong>: Osmar Yupanqui (ACCA)</li>
+            <li><strong>Presenter</strong>: Lilly Thomas (Development Seed)</li>
         </ul>
       </td>
-      <td><strong>Presenter</strong>: Development Seed</td>
     </tr>
     <tr>
-      <td>16:30 - 17:00</td>
+      <td>15:00 - 15:40</td>
+      <td>
+        <ul>
+            <li><em>Break</em></li>
+        </ul>
+      </td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>15:40 - 17:00</td>
+      <td>
+        <ul>
+          <li>Integrating TensorFlow with Google Earth Engine and Google Cloud Platform</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+            <li><strong>Moderator</strong>: Osmar Yupanqui (ACCA)</li>
+            <li><strong>Presenter</strong>: Lilly Thomas and Ryan Avery (Development Seed)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17:00 - 17:20</td>
       <td>
         <ul>
             <li>Day 1 wrap up</li>
          </ul>
       </td>
-      <td>-</td>
+      <td>
+        <ul>
+            <li><strong>Moderator</strong>: Vanesa Martin (NASA)</li>
+        </ul>
+      </td>
     </tr>
   </tbody>
 </table>
