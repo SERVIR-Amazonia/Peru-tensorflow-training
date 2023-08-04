@@ -129,8 +129,12 @@ Navigate through the different lesson sections by using the menu on the lefthand
             <li>Day 2 wrap up</li>
         </ul>
       </td>
-      <td><strong>Moderator</strong>: Vanesa Martin (NASA)</td>
-      <td><strong>Moderator</strong>: Milagros Becerra (ACCA)</td>
+      <td>
+        <ul>
+          <li><strong>Moderator</strong>: Vanesa Martin (NASA)</li>
+          <li><strong>Moderator</strong>: Milagros Becerra (ACCA)</li>
+        </ul>
+      </td>
     </tr>
   </tbody>
 </table>
