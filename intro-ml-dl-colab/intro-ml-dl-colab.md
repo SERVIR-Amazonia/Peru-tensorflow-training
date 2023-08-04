@@ -22,7 +22,7 @@ Navigate through the different lesson sections by using the menu on the lefthand
       <th align="center">Topics</th>
       <th align="center">Presenter</th>
     </tr>
-     <tr>
+    <tr>
       <td>07:30 - 08:00</td>
       <td>
         <ul>
@@ -57,7 +57,7 @@ Navigate through the different lesson sections by using the menu on the lefthand
       <td>
         <ul>
             <li>Opening photo</li>
-         </ul>
+        </ul>
       </td>
       <td>
         <ul>
@@ -124,7 +124,7 @@ Navigate through the different lesson sections by using the menu on the lefthand
       <td>
         <ul>
             <li>Introduction to Google Colab, Tensorflow 2.0 and Keras Library</li>
-          </ul>
+        </ul>
       </td>
       <td>
         <ul>
@@ -184,7 +184,7 @@ Navigate through the different lesson sections by using the menu on the lefthand
       <td>
         <ul>
             <li>Day 1 wrap up</li>
-         </ul>
+        </ul>
       </td>
       <td>
         <ul>
