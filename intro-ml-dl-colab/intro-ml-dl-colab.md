@@ -63,6 +63,7 @@ Navigate through the different lesson sections by using the menu on the lefthand
         <ul>
             <li><strong>Moderator</strong>: Claudia Hurtado (ACCA)</li>
         </ul>
+      </td>
     </tr>
     <tr>
       <td>09:00 - 09:30</td>
