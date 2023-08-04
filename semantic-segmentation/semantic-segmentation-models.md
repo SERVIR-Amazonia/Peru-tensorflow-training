@@ -39,7 +39,12 @@ Navigate through the different lesson sections by using the menu on the lefthand
             <li><em>Format: Lecture and Interactive</em></li>
         </ul>
       </td>
-      <td><strong>Presenter</strong>Lilly Thomas and Ryan Avery</td>
+      <td>
+        <ul>
+          <li><strong>Moderator</strong>: Vanesa Martin (NASA)</li>
+          <li><strong>Presenter</strong>: Lilly Thomas and Ryan Avery (Development Seed)</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>10:30 - 11:00</td>
@@ -51,21 +56,25 @@ Navigate through the different lesson sections by using the menu on the lefthand
       <td>-</td>
     </tr>
     <tr>
-      <td>11:00 - 12:15</td>
+      <td>11:00 - 13:00</td>
       <td>
         <ul>
           <li>Advanced Techniques for Deep Learning, metrics evaluation, data augmentation, etc</li>
           <li><em>Format: Lecture and Interactive</em></li>
         </ul>
       </td>
-      <td><strong>Presenter</strong>: Lilly Thomas and Ryan Avery</td>
+      <td>
+        <ul>
+          <li><strong>Moderator</strong>: Vanesa Martin (NASA)</li>
+          <li><strong>Presenter</strong>: Lilly Thomas and Ryan Avery (Development Seed)</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>12:15 - 13:30</td>
+      <td>13:00 - 13:30</td>
       <td>
         <ul>
             <li><em>Lunch</em></li>
-            <li><em>Support Team to Facilitate</em></li>
         </ul>
       </td>
       <td>-</td>
@@ -74,11 +83,16 @@ Navigate through the different lesson sections by using the menu on the lefthand
       <td>13:30 - 15:00</td>
       <td>
         <ul>
-          <li>Testing difference architecture and transfer learning with Convolutional Neural Networks</li>
+          <li>Testing different architecture and transfer learning with Convolutional Neural Networks</li>
           <li><em>Format: Lecture</em></li>
         </ul>
       </td>
-      <td><strong>Presenter</strong>: Lilly Thomas and Ryan Avery</td>
+      <td>
+        <ul>
+          <li><strong>Moderator</strong>: Vanesa Martin (NASA)</li>
+          <li><strong>Presenter</strong>: Lilly Thomas and Ryan Avery (Development Seed)</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>15:00 - 15:30</td>
@@ -90,7 +104,7 @@ Navigate through the different lesson sections by using the menu on the lefthand
       <td>-</td>
     </tr>
     <tr>
-      <td>15:30 - 16:30</td>
+      <td>15:30 - 17:00</td>
       <td>
         <ul>
           <li>TensorFlow advanced applications with Deep Learning</li>
@@ -101,16 +115,22 @@ Navigate through the different lesson sections by using the menu on the lefthand
           <li><em>Format: Lecture</em></li>
         </ul>
       </td>
-      <td><strong>Moderator</strong>: Lilly Thomas and Ryan Avery</td>
-    </tr>
-    <tr>
-      <td>16:30 - 17:00</td>
       <td>
         <ul>
-            <li>Finalize the session</li>
-         </ul>
+          <li><strong>Moderator</strong>: Vanesa Martin (NASA)</li>
+          <li><strong>Presenter</strong>: Lilly Thomas and Ryan Avery (Development Seed)</li>
+        </ul>
       </td>
-      <td><strong>Moderator</strong>: Vanesa Martin (SCO)</td>
+    </tr>
+    <tr>
+      <td>17:00 - 17:20</td>
+      <td>
+        <ul>
+            <li>Day 2 wrap up</li>
+        </ul>
+      </td>
+      <td><strong>Moderator</strong>: Vanesa Martin (NASA)</td>
+      <td><strong>Moderator</strong>: Milagros Becerra (ACCA)</td>
     </tr>
   </tbody>
 </table>
