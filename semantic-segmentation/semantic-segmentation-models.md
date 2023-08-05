@@ -25,9 +25,7 @@ Navigate through the different lesson sections by using the menu on the lefthand
     <tr>
       <td>08:30 - 09:00</td>
       <td>
-        <ul>
-            <li><em>Breakfast & Coffee / Meet and Greet</em></li>
-         </ul>
+        <em>Breakfast & Coffee / Meet and Greet</em>
       </td>
       <td>-</td>
     </tr>
@@ -35,23 +33,26 @@ Navigate through the different lesson sections by using the menu on the lefthand
       <td>09:00 - 10:30</td>
       <td>
         <ul>
-            <li>Building, compiling, and training a deep learning segmentation model to process datasets</li>
-            <li><em>Format: Lecture and Interactive</em></li>
+            <li>Building, compiling, and training a deep learning segmentation model to process datasets</li>  
+            <em>Format: Lecture and Interactive</em>
         </ul>
       </td>
       <td>
+        <strong>Moderator:</strong>
         <ul>
-          <li><strong>Moderator</strong>: Vanesa Martin (NASA)</li>
-          <li><strong>Presenter</strong>: Lilly Thomas and Ryan Avery (Development Seed)</li>
+          <li>Vanesa Martin (NASA)</li>
+        </ul>
+        <strong>Presenter:</strong>
+        <ul>
+          <li>Lilly Thomas (Development Seed)</li>
+          <li>Ryan Avery (Development Seed)</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>10:30 - 11:00</td>
       <td>
-        <ul>
-            <li><em>Coffee Break</em></li>
-        </ul>
+        <em>Coffee Break</em>
       </td>
       <td>-</td>
     </tr>
@@ -59,23 +60,26 @@ Navigate through the different lesson sections by using the menu on the lefthand
       <td>11:00 - 13:00</td>
       <td>
         <ul>
-          <li>Advanced Techniques for Deep Learning, metrics evaluation, data augmentation, etc</li>
-          <li><em>Format: Lecture and Interactive</em></li>
+          <li>Advanced Techniques for Deep Learning, metrics evaluation, data augmentation, etc</li>  
+          <em>Format: Lecture and Interactive</em>
         </ul>
       </td>
       <td>
+        <strong>Moderator:</strong>
         <ul>
-          <li><strong>Moderator</strong>: Vanesa Martin (NASA)</li>
-          <li><strong>Presenter</strong>: Lilly Thomas and Ryan Avery (Development Seed)</li>
+          <li>Vanesa Martin (NASA)</li>
+        </ul>
+        <strong>Presenter:</strong>
+        <ul>
+          <li>Lilly Thomas (Development Seed)</li>
+          <li>Ryan Avery (Development Seed)</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>13:00 - 13:30</td>
       <td>
-        <ul>
-            <li><em>Lunch</em></li>
-        </ul>
+        <em>Lunch</em>
       </td>
       <td>-</td>
     </tr>
@@ -83,42 +87,50 @@ Navigate through the different lesson sections by using the menu on the lefthand
       <td>13:30 - 15:00</td>
       <td>
         <ul>
-          <li>Testing different architecture and transfer learning with Convolutional Neural Networks</li>
-          <li><em>Format: Lecture</em></li>
+          <li>Testing different architecture and transfer learning with Convolutional Neural Networks</li>  
+          <em>Format: Lecture</em>
         </ul>
       </td>
       <td>
+        <strong>Moderator:</strong>
         <ul>
-          <li><strong>Moderator</strong>: Vanesa Martin (NASA)</li>
-          <li><strong>Presenter</strong>: Lilly Thomas and Ryan Avery (Development Seed)</li>
+          <li>Vanesa Martin (NASA)</li>
+        </ul>
+        <strong>Presenter:</strong>
+        <ul>
+          <li>Lilly Thomas (Development Seed)</li>
+          <li>Ryan Avery (Development Seed)</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>15:00 - 15:30</td>
       <td>
-        <ul>
-            <li><em>Coffee Break</em></li>
-        </ul>
+        <em>Break</em>
       </td>
       <td>-</td>
     </tr>
     <tr>
       <td>15:30 - 17:00</td>
       <td>
+        TensorFlow advanced applications with Deep Learning:
         <ul>
-          <li>TensorFlow advanced applications with Deep Learning</li>
           <li>Object detection</li>
           <li>Regression</li>
           <li>Time Series Analysis</li>
           <li>Hyper-parameter tuning</li>
-          <li><em>Format: Lecture</em></li>
-        </ul>
+        </ul>  
+        <em>Format: Lecture</em>
       </td>
       <td>
+        <strong>Moderator:</strong>
         <ul>
-          <li><strong>Moderator</strong>: Vanesa Martin (NASA)</li>
-          <li><strong>Presenter</strong>: Lilly Thomas and Ryan Avery (Development Seed)</li>
+          <li>Vanesa Martin (NASA)</li>
+        </ul>
+        <strong>Presenter:</strong>
+        <ul>
+          <li>Lilly Thomas (Development Seed)</li>
+          <li>Ryan Avery (Development Seed)</li>
         </ul>
       </td>
     </tr>
@@ -130,9 +142,10 @@ Navigate through the different lesson sections by using the menu on the lefthand
         </ul>
       </td>
       <td>
+        <strong>Moderator:</strong>
         <ul>
-          <li><strong>Moderator</strong>: Vanesa Martin (NASA)</li>
-          <li><strong>Moderator</strong>: Milagros Becerra (ACCA)</li>
+          <li>Vanesa Martin (NASA)</li>
+          <li>Milagros Becerra (ACCA)</li>
         </ul>
       </td>
     </tr>
