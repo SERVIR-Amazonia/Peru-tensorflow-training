@@ -30,8 +30,9 @@ Navigate through the different lesson sections by using the menu on the lefthand
         </ul>
       </td>
       <td>
+        <strong>Moderator:</strong>
         <ul>
-            <li><strong>Moderator</strong>: Marvin Quispe (ACCA)</li>
+            <li>Marvin Quispe (ACCA)</li>
         </ul>
       </td>
     </tr>
@@ -43,12 +44,16 @@ Navigate through the different lesson sections by using the menu on the lefthand
         </ul>
       </td>
       <td>
+        <strong>Moderator:</strong>
         <ul>
-            <li><strong>Moderator</strong>: Milagros Becerra (ACCA)</li>
-            <li><strong>Speaker</strong>: Vanesa Martin (NASA)</li>
-            <li><strong>Speaker</strong>: Carlos Gasco (CIAT/SAMZ)</li>
-            <li><strong>Speaker</strong>: Sidney Novoa (ACCA)</li>
-            <li><strong>Speaker</strong>: Patrick Venail (UTEC)</li>
+            <li>Milagros Becerra (ACCA)</li>
+        </ul>
+        <strong>Speaker:</strong>
+        <ul>
+            <li>Vanesa Martin (NASA)</li>
+            <li>Carlos Gasco (CIAT/SAMZ)</li>
+            <li>Sidney Novoa (ACCA)</li>
+            <li>Patrick Venail (UTEC)</li>
         </ul>
       </td>
     </tr>
@@ -60,8 +65,9 @@ Navigate through the different lesson sections by using the menu on the lefthand
         </ul>
       </td>
       <td>
+        <strong>Moderator:</strong>
         <ul>
-            <li><strong>Moderator</strong>: Claudia Hurtado (ACCA)</li>
+            <li>Claudia Hurtado (ACCA)</li>
         </ul>
       </td>
     </tr>
@@ -74,9 +80,10 @@ Navigate through the different lesson sections by using the menu on the lefthand
         </ul>
       </td>
       <td>
+        <strong>Moderator:</strong>
         <ul>
-          <li><strong>Moderator</strong>: Vanesa Martin (NASA)</li>
-          <li><strong>Moderator</strong>: Milagros Becerra (ACCA)</li>
+          <li>Vanesa Martin (NASA)</li>
+          <li>Milagros Becerra (ACCA)</li>
         </ul>
       </td>
     </tr>
@@ -89,20 +96,22 @@ Navigate through the different lesson sections by using the menu on the lefthand
         </ul>
       </td>
       <td>
+        <strong>Lead:</strong>
         <ul>
-            <li><strong>Lead</strong>: Milagros Becerra (ACCA)</li>
-            <li><strong>Moderator</strong>: Vanesa Martin (NASA)</li>
-            <li><strong>Moderator</strong>: Marvin Quispe (ACCA)</li>
-            <li><strong>Moderator</strong>: Osmar Yupanqui (ACCA)</li>
+          <li>Milagros Becerra (ACCA)</li>
+        </ul>
+        <strong>Moderator:</strong>
+        <ul>
+            <li>Vanesa Martin (NASA)</li>
+            <li>Marvin Quispe (ACCA)</li>
+            <li>Osmar Yupanqui (ACCA)</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>10:30 - 11:00</td>
       <td>
-        <ul>
-            <li><em>Coffee Break</em></li>
-        </ul>
+        <em>Coffee Break</em>
       </td>
       <td>-</td>
     </tr>
@@ -114,9 +123,14 @@ Navigate through the different lesson sections by using the menu on the lefthand
         </ul>
       </td>
       <td>
+        <strong>Moderator:</strong>
         <ul>
-            <li><strong>Moderator</strong>: Osmar Yupanqui (ACCA)</li>
-            <li><strong>Presenter</strong>: Lilly Thomas and Ryan Avery (Development Seed)</li>
+            <li>Osmar Yupanqui (ACCA)</li>
+        </ul>
+        <strong>Presenter:</strong>
+        <ul>
+            <li>Lilly Thomas(Development Seed)</li>
+            <li>Ryan Avery (Development Seed)</li>
         </ul>
       </td>
     </tr>
@@ -128,18 +142,20 @@ Navigate through the different lesson sections by using the menu on the lefthand
         </ul>
       </td>
       <td>
+        <strong>Moderator:</strong>
         <ul>
-            <li><strong>Moderator</strong>: Osmar Yupanqui (ACCA)</li>
-            <li><strong>Presenter</strong>: Lilly Thomas (Development Seed)</li>
+            <li>Osmar Yupanqui (ACCA)</li>
+        </ul>
+        <strong>Presenter:</strong>
+        <ul>
+            <li>Lilly Thomas(Development Seed)</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>13:00 - 14:15</td>
       <td>
-        <ul>
-            <li><em>Lunch</em></li>
-        </ul>
+        <em>Lunch</em>
       </td>
       <td>-</td>
     </tr>
@@ -151,18 +167,20 @@ Navigate through the different lesson sections by using the menu on the lefthand
         </ul>
       </td>
       <td>
+        <strong>Moderator:</strong>
         <ul>
-            <li><strong>Moderator</strong>: Osmar Yupanqui (ACCA)</li>
-            <li><strong>Presenter</strong>: Lilly Thomas (Development Seed)</li>
+            <li>Osmar Yupanqui (ACCA)</li>
+        </ul>
+        <strong>Presenter:</strong>
+        <ul>
+            <li>Lilly Thomas(Development Seed)</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td>15:00 - 15:40</td>
       <td>
-        <ul>
-            <li><em>Break</em></li>
-        </ul>
+        <em>Break</em>
       </td>
       <td>-</td>
     </tr>
@@ -174,9 +192,14 @@ Navigate through the different lesson sections by using the menu on the lefthand
         </ul>
       </td>
       <td>
+        <strong>Moderator:</strong>
         <ul>
-            <li><strong>Moderator</strong>: Osmar Yupanqui (ACCA)</li>
-            <li><strong>Presenter</strong>: Lilly Thomas and Ryan Avery (Development Seed)</li>
+            <li>Osmar Yupanqui (ACCA)</li>
+        </ul>
+        <strong>Presenter:</strong>
+        <ul>
+            <li>Lilly Thomas(Development Seed)</li>
+            <li>Ryan Avery (Development Seed)</li>
         </ul>
       </td>
     </tr>
@@ -188,8 +211,9 @@ Navigate through the different lesson sections by using the menu on the lefthand
         </ul>
       </td>
       <td>
+        <strong>Moderator:</strong>
         <ul>
-            <li><strong>Moderator</strong>: Vanesa Martin (NASA)</li>
+            <li>Vanesa Martin (NASA)</li>
         </ul>
       </td>
     </tr>
