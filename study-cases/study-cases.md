@@ -25,30 +25,37 @@ Navigate through the different lesson sections by using the menu on the lefthand
     <tr>
       <td>08:30 - 09:00</td>
       <td>
-        <ul>
-            <li><em>Breakfast & Coffee / Meet and Greet</em></li>
-         </ul>
+        <em>Breakfast & Coffee / Meet and Greet</em>
       </td>
       <td>-</td>
     </tr>
     <tr>
       <td>09:00 - 12:15</td>
       <td>
+        ACCA's Case Studies:
         <ul>
             <li>Selective Logging detection with Deep Learning, Cloud Computing and high-resolution imagery in the Peruvian Amazon</li>
             <li>Logging Roads detection using Deep Learning and high-resolution Sentinel-2 and Planet NICFI satellite imagery</li>
             <li>Gold Mining Monitoring with Sentinel-2 and Convolutional Neural Networks</li>
-            <li><em>Requirement: Co-develop, meaning ACCA develops interactive material, Development Seeds advices</em></li>
         </ul>
       </td>
-      <td><strong>Presenters</strong>: Osmar Yupanqui, Marvin Quispe, Milagros Becerra</td>
+      <td>
+        <strong>Moderator:</strong>
+        <ul>
+          <li>Lilly Thomas (Development Seed)</li>
+        </ul>
+        <strong>Presenter:</strong>
+        <ul>
+          <li>Osmar Yupanqui (ACCA)</li>
+          <li>Marvin Quispe (ACCA)</li>
+          <li>Milagros Becerra (ACCA)</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>12:15 - 13:30</td>
       <td>
-        <ul>
-            <li><em>Lunch</em></li>
-        </ul>
+        <em>Lunch</em>
       </td>
       <td>-</td>
     </tr>
@@ -56,17 +63,24 @@ Navigate through the different lesson sections by using the menu on the lefthand
       <td>13:30 - 15:00</td>
       <td>
         <ul>
-           <li>Feedback and questions</li>
+           <li>Data Annotation for Machine Learning</li>
         </ul>
       </td>
-      <td><strong>Moderator</strong>: Development Seed</td>
+      <td>
+        <strong>Moderator:</strong>
+        <ul>
+          <li>Lilly Thomas (Development Seed)</li>
+        </ul>
+        <strong>Presenter:</strong>
+        <ul>
+          <li>Ruben Lopez (Development Seed)</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>15:00 - 15:30</td>
       <td>
-        <ul>
-            <li><em>Coffee Break</em></li>
-        </ul>
+        <em>Break</em>
       </td>
       <td>-</td>
     </tr>
@@ -74,19 +88,36 @@ Navigate through the different lesson sections by using the menu on the lefthand
       <td>15:30 - 16:30</td>
       <td>
         <ul>
-          <li>Final Presentation Session</li>
+          <li>Feedback and Questions</li>
         </ul>
       </td>
-      <td><strong>Moderator</strong>: Vanesa Martin (SCO)</td>
+      <td>
+        <strong>Moderator:</strong>
+        <ul>
+          <li>Vanesa Martin (NASA)</li>
+          <li>Milagros Becerra (ACCA)</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>16:30 - 17:00</td>
+      <td>16:30 - 17:20</td>
       <td>
         <ul>
-            <li>Finalize ML application and presentation</li>
+          <li>Final Presentation Session</li>
+          <li>Discussion between participants about data processing is interesting to be involved and exchanged</li>
+          <li>Oral overview</li>
+          <li>Closing photo</li>
+          <li>Day 4 wrap up</li>
          </ul>
       </td>
-      <td><strong>Moderator</strong>: Vanesa Martin (SCO)</td>
+      <td>
+        <strong>Moderator:</strong>
+        <ul>
+          <li>Vanesa Martin (NASA)</li>
+          <li>Milagros Becerra (ACCA)</li>
+          <li>Osmar Yupanqui (ACCA)</li>
+        </ul>
+      </td>
     </tr>
   </tbody>
 </table>
