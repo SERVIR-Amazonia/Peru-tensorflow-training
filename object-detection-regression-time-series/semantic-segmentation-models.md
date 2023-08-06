@@ -25,94 +25,127 @@ Navigate through the different lesson sections by using the menu on the lefthand
     <tr>
       <td>08:30 - 09:00</td>
       <td>
-        <ul>
-            <li><em>Breakfast & Coffee / Meet and Greet</em></li>
-         </ul>
+        <em>Breakfast & Coffee / Meet and Greet</em>
       </td>
       <td>-</td>
     </tr>
     <tr>
       <td>09:00 - 10:30</td>
       <td>
+        Build-a-thon: TensorFlow Advanced Applications with Deep Learning
         <ul>
-            <li>Build-a-thon</li>
-            <li>TensorFlow Advanced Applications with Deep Learning</li>
             <li>Object Detection</li>
             <li>Regression</li>
-            <li><em>Requirement: Co-develop, meaning ACCA develops interactive material, Development Seeds advices</em></li>
         </ul>
       </td>
-      <td><strong>Presenter</strong>: ACCA + Development Seed</td>
+      <td>
+        <strong>Moderator:</strong>
+        <ul>
+          <li>Milagros Becerra (ACCA)</li>
+        </ul>
+        <strong>Presenter:</strong>
+        <ul>
+          <li>Lilly Thomas (Development Seed)</li>
+          <li>Ryan Avery (Development Seed)</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>10:30 - 11:00</td>
       <td>
-        <ul>
-            <li><em>Coffee Break</em></li>
-        </ul>
+        <em>Coffee Break</em>
       </td>
       <td>-</td>
     </tr>
     <tr>
       <td>11:00 - 12:15</td>
       <td>
+        Build-a-thon:
         <ul>
-          <li>Build-a-thon</li>
           <li>Vision Transformers</li>
-          <li><em>Requirement: Co-develop, meaning ACCA develops interactive material, Development Seeds advices</em></li>
         </ul>
       </td>
-      <td><strong>Moderator</strong>: Development Seed</td>
+      <td>
+        <strong>Moderator:</strong>
+        <ul>
+          <li>Milagros Becerra (ACCA)</li>
+        </ul>
+        <strong>Presenter:</strong>
+        <ul>
+          <li>Lilly Thomas (Development Seed)</li>
+          <li>Ryan Avery (Development Seed)</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>12:15 - 13:30</td>
       <td>
-        <ul>
-            <li><em>Lunch</em></li>
-            <li><em>Support Team to Facilitate</em></li>
-        </ul>
+        <em>Lunch</em>
       </td>
       <td>-</td>
     </tr>
     <tr>
       <td>13:30 - 15:00</td>
       <td>
+        Build-a-thon: TensorFlow Advanced Applications with Deep Learning
         <ul>
-           <li>Build-a-thon</li>
-           <li>TensorFlow Advanced Applications with Deep Learning</li>
-           <li>Time Series Analysis</li>
-           <li>Hypertuning</li>
-           <li><em>Requirement: Co-develop, meaning ACCA develops interactive material, Development Seeds advices</em></li>
+            <li>Time Series Analysis</li>
         </ul>
       </td>
-      <td><strong>Presenter</strong>: ACCA + Development Seed</td>
+      <td>
+        <strong>Moderator:</strong>
+        <ul>
+          <li>Milagros Becerra (ACCA)</li>
+        </ul>
+        <strong>Presenter:</strong>
+        <ul>
+          <li>Biplov Bhandari (SERVIR)</li>
+          <li>Lilly Thomas (Development Seed)</li>
+          <li>Ryan Avery (Development Seed)</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>15:00 - 15:30</td>
       <td>
-        <ul>
-            <li><em>Coffee Break</em></li>
-        </ul>
+        <em>Coffee Break</em>
       </td>
       <td>-</td>
     </tr>
     <tr>
-      <td>15:30 - 16:30</td>
+      <td>15:30 - 17:00</td>
       <td>
+        Build-a-thon: TensorFlow Advanced Applications with Deep Learning
         <ul>
-          <li>Build-a-thon</li>
+            <li>Hypertuning</li>
         </ul>
       </td>
-      <td><strong>Moderator</strong>: Tim Mayers (SCO)</td>
+      <td>
+        <strong>Moderator:</strong>
+        <ul>
+          <li>Milagros Becerra (ACCA)</li>
+        </ul>
+        <strong>Presenter:</strong>
+        <ul>
+          <li>Lilly Thomas (Development Seed)</li>
+          <li>Ryan Avery (Development Seed)</li>
+        </ul>
+      </td>
     </tr>
     <tr>
-      <td>16:30 - 17:00</td>
+      <td>17:00 - 17:20</td>
       <td>
         <ul>
-            <li>Final session</li>
+            <li>Day 3 wrap up</li>
          </ul>
       </td>
-      <td><strong>Moderator</strong>: Vanesa Martin (SCO)</td>
+      <td>
+        <strong>Moderator:</strong>
+        <ul>
+          <li>Vanesa Martin (NASA)</li>
+          <li>Milagros Becerra (ACCA)</li>
+        </ul>
+      </td>
     </tr>
   </tbody>
 </table>
