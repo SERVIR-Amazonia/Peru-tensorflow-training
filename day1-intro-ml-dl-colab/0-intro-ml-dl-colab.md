@@ -1,15 +1,17 @@
 ---
 layout: page
 title: "Day 1: Introduction to ML, Deep Learning and Google Colab"
-permalink: /intro-ml-dl-colab
-has_children: true
+permalink: /0-intro-ml-dl-colab
+has_children: false
 nav_order: 3
 ---
 
 
 
 # Introduction to ML, Deep Learning and Google Colab
-Navigate through the different lesson sections by using the menu on the lefthand side or the table of contents below. 
+
+## Table of contents
+{: .no_toc .text-delta }
 
 ## Session Agenda
 **Date**: 08/08/2023  
@@ -219,3 +221,30 @@ Navigate through the different lesson sections by using the menu on the lefthand
     </tr>
   </tbody>
 </table>
+
+## Introduction to Machine Learning, Deep Learning and Artificial Intelligence
+
+<ul>
+    <li>[Lesson 1 A](https://developmentseed.org/tensorflow-eo-training-2/docs/Lesson1a_Intro_ML_NN_DL.html)</li>
+</ul>
+
+## Introduction to Google Colab, Tensorflow 2.0 and Keras Library
+
+<ul>
+    <li>[Lesson 2 A](https://developmentseed.org/tensorflow-eo-training-2/docs/Lesson2a_Intro_to_Google_Colab.html)</li>
+    <li>[Lesson 2 B](https://developmentseed.org/tensorflow-eo-training-2/docs/Lesson2b_Intro_TensorFlow_Keras.html)</li>
+    <li>[Lesson 2 C](https://developmentseed.org/tensorflow-eo-training-2/docs/Lesson2b_Intro_TF2_Keras_TFDS_RadiantEarth.html)</li>
+</ul>
+
+## Overview of the building blocks (tensors) of TensorFlow (Tensors), main methods, functions and datasets
+
+<ul>
+    <li>[Lesson 3 A](https://developmentseed.org/tensorflow-eo-training-2/docs/Lesson3_Intro_tensors_functions_datasets.html)</li>
+</ul>
+
+## Integrating TensorFlow with Google Earth Engine and Google Cloud Platform
+
+<ul>
+    <li>[Lesson 4 A](https://developmentseed.org/tensorflow-eo-training-2/docs/Lesson4a_GEE_PythonAPI_TensorFlow_Regression.html)</li>
+    <li>[Lesson 4 B](https://developmentseed.org/tensorflow-eo-training-2/docs/Lesson4b_Integrations_with_Google_Cloud_Platform.html)</li>
+</ul>
