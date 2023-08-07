@@ -225,26 +225,26 @@ nav_order: 3
 ## Introduction to Machine Learning, Deep Learning and Artificial Intelligence
 
 <ul>
-    <li>[Lesson 1 A](https://developmentseed.org/tensorflow-eo-training-2/docs/Lesson1a_Intro_ML_NN_DL.html)</li>
+    <li>Lesson 1 A: <a href="https://developmentseed.org/tensorflow-eo-training-2/docs/Lesson1a_Intro_ML_NN_DL.html">Introduction to machine learning, neural networks and deep learning</a></li>
 </ul>
 
 ## Introduction to Google Colab, Tensorflow 2.0 and Keras Library
 
 <ul>
-    <li>[Lesson 2 A](https://developmentseed.org/tensorflow-eo-training-2/docs/Lesson2a_Intro_to_Google_Colab.html)</li>
-    <li>[Lesson 2 B](https://developmentseed.org/tensorflow-eo-training-2/docs/Lesson2b_Intro_TensorFlow_Keras.html)</li>
-    <li>[Lesson 2 C](https://developmentseed.org/tensorflow-eo-training-2/docs/Lesson2b_Intro_TF2_Keras_TFDS_RadiantEarth.html)</li>
+    <li>Lesson 2 A: <a href="https://developmentseed.org/tensorflow-eo-training-2/docs/Lesson2a_Intro_to_Google_Colab.html">Introduction to Google Colab</a></li>
+    <li>Lesson 2 B: <a href="https://developmentseed.org/tensorflow-eo-training-2/docs/Lesson2b_Intro_TensorFlow_Keras.html">Introduction to TensorFlow 2 and Keras</a></li>
+    <li>Lesson 2 C: <a href="https://developmentseed.org/tensorflow-eo-training-2/docs/Lesson2b_Intro_TF2_Keras_TFDS_RadiantEarth.html">TensorFlow 2 and Keras quickstart for geospatial computer vision</a></li>
 </ul>
 
 ## Overview of the building blocks (tensors) of TensorFlow (Tensors), main methods, functions and datasets
 
 <ul>
-    <li>[Lesson 3 A](https://developmentseed.org/tensorflow-eo-training-2/docs/Lesson3_Intro_tensors_functions_datasets.html)</li>
+    <li>Lesson 3 A: <a href="https://developmentseed.org/tensorflow-eo-training-2/docs/Lesson3_Intro_tensors_functions_datasets.html">Introduction to Tensors, TensorFlow Functions and TensorFlow Datasets</a></li>
 </ul>
 
 ## Integrating TensorFlow with Google Earth Engine and Google Cloud Platform
 
 <ul>
-    <li>[Lesson 4 A](https://developmentseed.org/tensorflow-eo-training-2/docs/Lesson4a_GEE_PythonAPI_TensorFlow_Regression.html)</li>
-    <li>[Lesson 4 B](https://developmentseed.org/tensorflow-eo-training-2/docs/Lesson4b_Integrations_with_Google_Cloud_Platform.html)</li>
+    <li>Lesson 4 A: <a href="https://developmentseed.org/tensorflow-eo-training-2/docs/Lesson4a_GEE_PythonAPI_TensorFlow_Regression.html">Regression using TensorFlow with Google Earth Engine Python API</a></li>
+    <li>Lesson 4 B: <a href="https://developmentseed.org/tensorflow-eo-training-2/docs/Lesson4b_Integrations_with_Google_Cloud_Platform.html">What are cloud providers? Why might I need them for ML and Earth observation data?</a></li>
 </ul>
