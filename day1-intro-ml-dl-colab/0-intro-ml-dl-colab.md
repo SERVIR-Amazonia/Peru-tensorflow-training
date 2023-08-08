@@ -234,8 +234,8 @@ Introduction to Google Colab, Tensorflow 2.0 and Keras Library:
 
 <ul>
     <li>Colab: <a href="https://developmentseed.org/tensorflow-eo-training-2/docs/Lesson2a_Intro_to_Google_Colab.html">https://developmentseed.org/tensorflow-eo-training-2/docs/Lesson2a_Intro_to_Google_Colab.html</a></li>
-    <li>Tensorflow 2.0 and Keras part 1: <a href="https://developmentseed.org/tensorflow-eo-training-2/docs/Lesson2b_Intro_TensorFlow_Keras.html"></a>https://developmentseed.org/tensorflow-eo-training-2/docs/Lesson2b_Intro_TensorFlow_Keras.html</li>
-    <li>Tensorflow 2.0 and Keras part 2: <a href="https://developmentseed.org/tensorflow-eo-training-2/docs/Lesson2c_Intro_TF2_Keras_TFDS_RadiantEarth.html"></a>https://developmentseed.org/tensorflow-eo-training-2/docs/Lesson2c_Intro_TF2_Keras_TFDS_RadiantEarth.html</li>
+    <li>Tensorflow 2.0 and Keras part 1: <a href="https://developmentseed.org/tensorflow-eo-training-2/docs/Lesson2b_Intro_TensorFlow_Keras.html">https://developmentseed.org/tensorflow-eo-training-2/docs/Lesson2b_Intro_TensorFlow_Keras.html</a></li>
+    <li>Tensorflow 2.0 and Keras part 2: <a href="https://developmentseed.org/tensorflow-eo-training-2/docs/Lesson2c_Intro_TF2_Keras_TFDS_RadiantEarth.html">https://developmentseed.org/tensorflow-eo-training-2/docs/Lesson2c_Intro_TF2_Keras_TFDS_RadiantEarth.html</a></li>
 </ul>
 
 Overview of the building blocks (tensors) of TensorFlow (Tensors), main methods, functions and datasets:
@@ -248,5 +248,5 @@ Integrating TensorFlow with Google Earth Engine and Google Cloud Platform:
 
 <ul>
     <li>GEE: <a href="https://developmentseed.org/tensorflow-eo-training-2/docs/Lesson4a_GEE_PythonAPI_TensorFlow_Regression.html">https://developmentseed.org/tensorflow-eo-training-2/docs/Lesson4a_GEE_PythonAPI_TensorFlow_Regression.html</a></li>
-    <li>GCP: <a href="https://developmentseed.org/tensorflow-eo-training-2/docs/Lesson4b_Integrations_with_Google_Cloud_Platform.html"></a>https://developmentseed.org/tensorflow-eo-training-2/docs/Lesson4b_Integrations_with_Google_Cloud_Platform.html</li>
+    <li>GCP: <a href="https://developmentseed.org/tensorflow-eo-training-2/docs/Lesson4b_Integrations_with_Google_Cloud_Platform.html">https://developmentseed.org/tensorflow-eo-training-2/docs/Lesson4b_Integrations_with_Google_Cloud_Platform.html</a></li>
 </ul>
