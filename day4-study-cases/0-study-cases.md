@@ -2,7 +2,7 @@
 layout: page
 title: "Day 4: ACCA's Case of Study"
 permalink: /study-cases
-has_children: true
+has_children: false
 nav_order: 6
 ---
 
@@ -122,4 +122,16 @@ Navigate through the different lesson sections by using the menu on the lefthand
   </tbody>
 </table>
 
+## Content
 
+Gold Mining Monitoring with Sentinel-1 using LSTM's:
+
+<ul>
+    <li>Small demo: <a href="https://colab.research.google.com/drive/1MYwsfxuCOvicJtkqtnivjz6Ghm8Ibkns?usp=drive_link">https://colab.research.google.com/drive/1MYwsfxuCOvicJtkqtnivjz6Ghm8Ibkns?usp=drive_link</a></li>
+</ul>
+
+Selective Logging Detection using Deep Learning and SkySat:
+
+<ul>
+    <li>Small demo: <a href="https://colab.research.google.com/drive/1sMC3AeFH-Sy2Bfvd95bD16XdWrQrPtQQ?usp=drive_link">https://colab.research.google.com/drive/1sMC3AeFH-Sy2Bfvd95bD16XdWrQrPtQQ?usp=drive_link</a></li>
+</ul>
