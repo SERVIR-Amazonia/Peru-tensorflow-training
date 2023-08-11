@@ -74,6 +74,7 @@ Navigate through the different lesson sections by using the menu on the lefthand
         <strong>Presenter:</strong>
         <ul>
           <li>Ruben Lopez (Development Seed)</li>
+          <li>Junior Flores (Development Seed)</li>
         </ul>
       </td>
     </tr>
