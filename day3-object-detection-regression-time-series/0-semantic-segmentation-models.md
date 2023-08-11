@@ -2,7 +2,7 @@
 layout: page
 title: "Day 3: Object Detection, Regression, Time Series Analysis"
 permalink: /object-detection-regression-time-series
-has_children: true
+has_children: false
 nav_order: 5
 ---
 
