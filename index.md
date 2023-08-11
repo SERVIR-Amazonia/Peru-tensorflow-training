@@ -27,7 +27,7 @@ This table is just an example. Actual 12-day overview will differ based on the c
 ## Feedback
 If you have any feedback from the workshop, please fill out the form below. It helps us improve future workshops!
 
-[Give Feedback](https://forms.gle/Nd2EtDBKRaR5pY2V6){: .btn .btn-purple }
+[Give Feedback](https://forms.gle/gSGWxatR84Z5w6HN6){: .btn .btn-purple }
 
 ## Workshop Recordings
 The recordings for each workshop session can be access by clicking the button below. Please do not remove any files from the folder.
