@@ -135,4 +135,10 @@ Selective Logging Detection using Deep Learning and SkySat:
 
 <ul>
     <li>Small demo: <a href="https://colab.research.google.com/drive/1sMC3AeFH-Sy2Bfvd95bD16XdWrQrPtQQ?usp=drive_link">https://colab.research.google.com/drive/1sMC3AeFH-Sy2Bfvd95bD16XdWrQrPtQQ?usp=drive_link</a></li>
+
+Data Annotation for Machine Learning
+
+<ul>
+    <li>Data workflow: <a href="https://devseed.com/data-team-workflow/">https://devseed.com/data-team-workflow/</a></li>
+    <li>Data resources: <a href="https://paper.dropbox.com/doc/Data-annotation-workflow-Development-Seed-5iTh8KwGzu0746RVU49sN">https://paper.dropbox.com/doc/Data-annotation-workflow-Development-Seed-5iTh8KwGzu0746RVU49sN</a></li>
 </ul>
