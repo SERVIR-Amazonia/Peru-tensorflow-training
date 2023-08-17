@@ -5,6 +5,9 @@ nav_order: 9
 ---
 
 # Photos
+
+Photos from the event are available in the following link:
+
 [View or Upload Photos](https://drive.google.com/drive/folders/1JECFfC4rkeSr0jXLqrxblkPIKeet8AT2?usp=sharing){: .btn .btn-purple }
 
 ## Recent Workshop Highlights
