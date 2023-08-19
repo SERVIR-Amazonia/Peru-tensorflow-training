@@ -5,4 +5,6 @@ nav_order: 8
 ---
 
 # Resources
-Add links and general resources here.
+Below is a 2021 video recording of a previous version of this lesson. It was given by Lilly Thomas, ML Engineer at Development Seed.
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/-C3niPVd-zU"></iframe>
